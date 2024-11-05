@@ -1,5 +1,6 @@
 .venv
 .idea
+temp/
 example.txt
 input.txt
 test.py
